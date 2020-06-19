@@ -2,6 +2,9 @@
 <html>
 
 <head>
+    <meta charset="utf-8" name="og:title" content="{{title}}">
+    <meta charset="utf-8" name="og:description" content="{{info.profile}}">
+    <meta charset="utf-8" name="og:image" content="https://res.cloudinary.com/zubrik/image/upload/v1592576222/Ava2_fazfqo.jpg">
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <title>{{title}}</title>
 
@@ -31,7 +34,7 @@
             <ul>
                 <li><a href="{{info.linkedin}}" target="_blank">Linkedin</a></li>
                 <li><a href="{{info.github}}" target="_blank">GitHub</a></li>
-                <li><a href="{{info.medium}}" target="_blank">Medium</a></li>
+                <li><a href="{{info.gitlab}}" target="_blank">GitLab</a></li>
             </ul>
         </div>
     </nav>
@@ -51,6 +54,7 @@
                 </a>
             </div>
             <div class="l-Header-col Contact">
+                <div><img src="https://res.cloudinary.com/zubrik/image/upload/v1592576222/Ava2_fazfqo.jpg" style="height: 200px;, width: 100px;"></div>
                 <div>{{info.location}}</div>
                 <div><a class="u-link" href="{{info.github}}" target="_blank">{{info.github}}</a></div>
                 <div><a class="u-link" href="mailto:{{info.email}}" target="_blank">{{info.email}}</a></div>
@@ -105,10 +109,14 @@
         </section>
 
         <section class="l-Section">
-            <h2 class="l-Section-title h3">Additional experience</h2>
+            <h2 class="l-Section-title h3">Certifications</h2>
             <div class="l-Section-content">
-                {{#each extra-experience}}
-                <p>{{ this }} </p>
+                {{#each certifications}}
+                    {{#if this.url}}
+                        <a href="{{ this.url }}"> {{ this.name }}</a>
+                    {{else}}
+                         <p>{{ this.name }} </p>
+                    {{/if}}               
                 {{/each}}
             </div>
         </section>
@@ -116,7 +124,7 @@
         <section class="l-Section u-hidden@print">
             <h2 class="l-Section-title h3">Interests</h2>
             <div class="l-Section-content">
-                <p>Programming, IoT, astrophysics, traveling, hiking, jogging, martial arts, argentine tango</p>
+                <p>Programming, aerospace, traveling, badminton, hiking, bikeriding, argentine tango</p>
             </div>
         </section>
     </article>
@@ -124,7 +132,7 @@
     <div class="l-Wrapper u-keyline">
         <div class="l-Footer">
             <div class="l-Footer-col">
-                <strong class="Tag">Sergey Royz</strong>
+                <strong class="Tag">Raman Zubrytski</strong>
             </div>
             <div class="l-Footer-col Contact">
                 Design by <a href="http://sonjastrieder.com" target="_blank">Sonja Strieder</a>
