@@ -1,5 +1,5 @@
 # CV
-[![Build Status](https://travis-ci.org/zjor/cv.svg?branch=master)](https://travis-ci.org/zjor/cv)
+[![Build Status](https://travis-ci.com/zubrik13/cv.svg?branch=master)](https://travis-ci.com/github/zubrik13/cv)
 
 Static CV generated from the Yaml data file and a template.
 
