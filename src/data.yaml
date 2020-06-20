@@ -35,6 +35,16 @@ experience:
     - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask 
   technologies: Python, Docker, Flask
 
+# TECMOS spol. s r.o
+- position: TECMOS spol. s.r.o
+  location: Nivnice, Czech Republic
+  url: https://tecmos.cz/ 
+  role: Structural Analysis, Fatigue and DT Analysis Engineer
+  term: April 2015 - June 2020
+  achievements:
+    - Structural analysis, fatigue, crack growth and damage tolerance analysis in Aerospace and Automotive industries.
+  technologies: FE analysis, NASTRAN, AFGROW
+
 education:
   - degree: M.S.E. in Aircraft Design
     term: 2013 - 2015
