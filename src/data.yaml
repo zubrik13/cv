@@ -45,8 +45,9 @@ experience:
   role: Fullstack Software Engineer - self-employed
   term: January 2020 - July 2020
   achievements:
-    - Created automatic email sending microservice Postemailer with Flask-Mail
-    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask 
+    - Created automatic email sending microservice Postemailer with Flask-Mail (<a
+      href="https://app.tezado.fun/">app.tezado.fun</a>)
+    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask
   technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
 
 # TECMOS spol. s r.o
