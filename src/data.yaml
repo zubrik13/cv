@@ -83,6 +83,8 @@ certifications:
     url: "https://linuxacademy.com/profile/u/cert/id/354225"    
   - name: "LPI Linux Essentials Certification"
     url: "https://linuxacademy.com/profile/u/cert/id/331294"    
+  - name: "Elastic Stack Essentials"
+    url: "https://linuxacademy.com/profile/u/cert/id/344494"
   - name: "The Bits and Bytes of Computer Networking"
     url: "https://www.coursera.org/account/accomplishments/verify/VWHKFR98WYAM"    
   - name: "Taming Big Data with Apache Spark and Python"
