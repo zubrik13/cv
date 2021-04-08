@@ -4,6 +4,7 @@ firstName: Raman
 lastName: Zubrytski
 
 info:
+  hackerrank: https://www.hackerrank.com/zubrik
   github: https://github.com/zubrik13
   gitlab: https://gitlab.com/zubrik
   linkedin: https://www.linkedin.com/in/raman-zubrytski-61a1b6a8/
@@ -20,7 +21,7 @@ skills:
   - "Technologies: Python, Pandas, Flask, HTML, CSS"
   - "Testing: Travis CI"
   - "Tool & OSes: Linux, Windows, vim, Docker, Elastic Stack, Kubernetes, Oracle SQL Developer"
-  - "Databases: MySQL"
+  - "Databases: MySQL, Oracle SQL"
   - "Team Development: Git, Jira"
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
@@ -34,9 +35,9 @@ experience:
   achievements:
     - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
     - Semi-Automated and automated deployment of applications
-    - Ensure readiness/health-state of production and testing environments using Dynatrace, Tivoli, Kibana
+    - Ensure readiness/health-state of production and testing environments using Dynatrace, Kibana
     - Job automation, scripts writing (sql, python)
-  technologies: Python, Oracle SQL Developer, Dynatrace, Tivoli, Kibana
+  technologies: Python, Oracle SQL Developer, Dynatrace, Kibana
 
 # Self-employed
 - position: self-employed
@@ -75,6 +76,8 @@ education:
       Undergraduate coursework: machine building technologies
 
 certifications:
+  - name: "Azure Fundamentals"
+    url: "https://www.credly.com/badges/0792a958-00d3-45b9-8a24-dcc3b535c674/public_url"
   - name: "Docker Deep Dive"
     url: "https://linuxacademy.com/profile/u/cert/id/343970"
   - name: "Microservice Applications in Kubernetes"
