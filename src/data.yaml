@@ -66,12 +66,14 @@ education:
     term: 2013 - 2015
     name: Brno University of Technology
     location: Czech Republic
+    url: https://www.vutbr.cz/en/students/programmes/branch/14014
     description: |
       Graduate coursework: birdstrike impact on a leading edge of a composite wing
   - degree: B.S.E. in Mechanical Engineering
     term: 2007 - 2011
     name: Brest State Technical University
     location: Belarus
+    url: https://en.bstu.by/en/university/faculties/mechanical-engineering
     description: |
       Undergraduate coursework: machine building technologies
 
