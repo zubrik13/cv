@@ -1,0 +1,111 @@
+title: Raman Zubrytski
+
+firstName: Raman
+lastName: Zubrytski
+
+info:
+  hackerrank: https://www.hackerrank.com/zubrik
+  github: https://github.com/zubrik13
+  gitlab: https://gitlab.com/zubrik
+  linkedin: https://www.linkedin.com/in/raman-zubrytski-61a1b6a8/
+  phone: +420777548165
+  email: rzubrytski@gmail.com
+  location: Prague, Czech Republic
+
+position: DevOps Engineer
+profile: |
+  Software engineer with strong technical background. 
+  My goal is to become full-stack developer to be able to exceed challenging tasks and goals.
+
+skills:
+  - "Technologies: Python, Pandas, Flask, HTML, CSS"
+  - "Testing: Travis CI"
+  - "Tool & OSes: Linux, Windows, vim, Docker, Elastic Stack, Kubernetes, Oracle SQL Developer"
+  - "Databases: MySQL, Oracle SQL"
+  - "Team Development: Git, Jira"
+  - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
+
+experience:
+# Commerzbank AG
+- position: Commerzbank AG
+  location: Prague, Czech Republic
+  url: https://www.commerzbank.com/
+  role: DevOps Engineer
+  term: August 2020 - present
+  achievements:
+    - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
+    - Semi-Automated and automated deployment of applications
+    - Ensure readiness/health-state of production and testing environments using Dynatrace, Kibana
+    - Job automation, scripts writing (sql, python)
+  technologies: Python, Oracle SQL Developer, Dynatrace, Kibana
+
+# Self-employed
+- position: self-employed
+  location: Prague, Czech Republic
+  url: 
+  role: Fullstack Software Engineer - self-employed
+  term: January 2020 - July 2020
+  achievements:
+    - Created automatic email sending microservice Postemailer with Flask-Mail
+    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask <a
+      href="https://app.tezado.fun/">app.tezado.fun</a>
+  technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
+
+# TECMOS spol. s r.o
+- position: TECMOS spol. s.r.o
+  location: Nivnice, Czech Republic
+  url: https://tecmos.cz/ 
+  role: Structural Analysis, Fatigue and DT Analysis Engineer
+  term: April 2015 - June 2020
+  achievements:
+    - Structural analysis, fatigue, crack growth and damage tolerance analysis in Aerospace and Automotive industries.
+  technologies: FE analysis, NASTRAN, AFGROW
+
+education:
+  - degree: M.S.E. in Aircraft Design
+    term: 2013 - 2015
+    name: Brno University of Technology
+    location: Czech Republic
+    url: https://www.vutbr.cz/en/students/programmes/branch/14014
+    description: |
+      Graduate coursework: birdstrike impact on a leading edge of a composite wing
+  - degree: B.S.E. in Mechanical Engineering
+    term: 2007 - 2011
+    name: Brest State Technical University
+    location: Belarus
+    url: https://en.bstu.by/en/university/faculties/mechanical-engineering
+    description: |
+      Undergraduate coursework: machine building technologies
+
+certifications:
+  - name: "Azure Fundamentals"
+    url: "https://www.credly.com/badges/0792a958-00d3-45b9-8a24-dcc3b535c674/public_url"
+  - name: "Docker Deep Dive"
+    url: "https://linuxacademy.com/profile/u/cert/id/343970"
+  - name: "Microservice Applications in Kubernetes"
+    url: "https://linuxacademy.com/profile/u/cert/id/348461"    
+  - name: "DevOps Essentials"
+    url: "https://linuxacademy.com/profile/u/cert/id/354225"    
+  - name: "LPI Linux Essentials Certification"
+    url: "https://linuxacademy.com/profile/u/cert/id/331294"    
+  - name: "Elastic Stack Essentials"
+    url: "https://linuxacademy.com/profile/u/cert/id/344494"
+  - name: "The Bits and Bytes of Computer Networking"
+    url: "https://www.coursera.org/account/accomplishments/verify/VWHKFR98WYAM"    
+  - name: "Taming Big Data with Apache Spark and Python"
+    url: "https://www.udemy.com/certificate/UC-07c19d57-5484-4ee8-81f2-24b81bf455b5/"
+  - name: "Kaggle - Pandas"
+    url: "https://www.dropbox.com/s/hd635rn6cmxduw9/Kaggle%20-%20Pandas.pdf?dl=0"
+  - name: "Python Programming - Stepik"
+    url: "https://stepik.org/cert/800109"
+  - name: "Python and Flask Bootcamp"
+    url: "https://www.udemy.com/certificate/UC-96828cd2-a260-4793-bcb7-ecb734f7ca5b/"    
+  - name: "Python Programming: A Concise Introduction"
+    url: "https://www.coursera.org/account/accomplishments/verify/7Z7WAUUYCRX3"    
+  - name: "Python Basics"
+    url: "https://www.coursera.org/account/accomplishments/verify/83DHT7UGV7ZC"    
+  - name: "Introduction to Structured Query Language (SQL)"
+    url: "https://www.coursera.org/account/accomplishments/verify/HVNS2RQ5UKC3"    
+  - name: "AWS concepts"
+    url: "https://linuxacademy.com/profile/u/cert/id/330327"    
+
