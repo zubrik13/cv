@@ -12,26 +12,40 @@ info:
   email: rzubrytski@gmail.com
   location: Prague, Czech Republic
 
-position: DevOps Engineer
+position: Python Developer
 profile: |
   Software engineer with strong technical background. 
   My goal is to become full-stack developer to be able to exceed challenging tasks and goals.
 
 skills:
-  - "Technologies: Python, Pandas, Flask, HTML, CSS"
-  - "Testing: Travis CI"
-  - "Tool & OSes: Linux, Windows, vim, Docker, Elastic Stack, Kubernetes, Oracle SQL Developer"
-  - "Databases: MySQL, Oracle SQL"
-  - "Team Development: Git, Jira"
+  - "Technologies: Python, Flask, HTML, CSS"
+  - "Automation: Travis CI, Octopus, Azure Pipelines, Terraform"
+  - "Tool & OSes: Linux, Windows, Docker, Kubernetes, Rancher, Elastic Stack, New Relic, AWS"
+  - "Databases: PostgreSQL, MySQL, Oracle SQL"
+  - "Team Development: Git, Jira, Confluence"
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
+# Absa Technology
+- position: Python Developer
+  location: Prague, Czech Republic
+  url: https://www.absa.africa/absaafrica/
+  role: Python Developer
+  term: August 2021 - present
+  achievements:
+    - Reliability of application log monitoring
+    - Migration of infrastructure from on-premises to cloud environment
+    - Infrastructure as a code IaC
+    - Shell scripting (bash)
+  technologies: Python, ELK stack, New Relic, Docker, Kubernetes, AWS, Terraform, Octopus
+
+
 # Commerzbank AG
 - position: Commerzbank AG
   location: Prague, Czech Republic
   url: https://www.commerzbank.com/
   role: DevOps Engineer
-  term: August 2020 - present
+  term: August 2020 - August 2021
   achievements:
     - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
     - Semi-Automated and automated deployment of applications
