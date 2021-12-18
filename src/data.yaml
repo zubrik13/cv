@@ -18,7 +18,7 @@ profile: |
   My goal is to become full-stack developer to be able to exceed challenging tasks and goals.
 
 skills:
-  - "Technologies: Python, HTML, CSS, AWS"
+  - "Technologies: Python, AWS"
   - "Automation: Travis CI, Octopus, Azure Pipelines, Terraform"
   - "Tool & OSes: Linux, Windows, Docker, Kubernetes, Rancher, Elastic Stack, New Relic"
   - "Databases: PostgreSQL, MySQL, Oracle SQL"
@@ -91,6 +91,8 @@ education:
       Undergraduate coursework: machine building technologies
 
 certifications:
+  - name: "AWS Certified Solutions Architect – Associate"
+    url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
   - name: "AWS Cloud Practitioner"
     url: "https://www.credly.com/badges/1b81fcab-c83e-488d-a124-627ba8b60796/public_url"
   - name: "Azure Fundamentals"
