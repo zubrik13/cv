@@ -112,13 +112,10 @@
         <section class="l-Section">
             <h2 class="l-Section-title h3">Certifications</h2>
             <div class="l-Section-content">
-                {{#each certifications}}
-                    {{#if this.url}}
-                        <a href="{{ this.url }}"> {{ this.name }}</a>
-                    {{else}}
-                         <p>{{ this.name }} </p>
-                    {{/if}}               
+                {{#each badges}}
+                    <div data-iframe-width="150" data-iframe-height="150" data-share-badge-id={{ this.id }} data-share-badge-host="https://www.credly.com"></div>
                 {{/each}}
+                <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
         </section>
 

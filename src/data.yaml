@@ -15,35 +15,50 @@ info:
 position: DevOps Engineer
 profile: |
   Software engineer with strong technical background. 
-  My goal is to become full-stack developer to be able to exceed challenging tasks and goals.
+  My goal is to become experienced engineer to be able to exceed challenging tasks and goals.
 
 skills:
-  - "Technologies: Python, AWS"
-  - "Automation: Travis CI, Octopus, Azure Pipelines, Terraform"
-  - "Tool & OSes: Linux, Windows, Docker, Kubernetes, Rancher, Elastic Stack, New Relic"
+  - "Technologies: AWS, Terraform, Kubernetes, Docker"
+  - "Automation: Gitlab CI/CD, Azure Pipelines, Octopus"
+  - "Logging & Monitoring: Elastic Stack, New Relic"
   - "Databases: PostgreSQL, MySQL, Oracle SQL"
-  - "Team Development: Git, Jira, Confluence"
+  - "Team Development: Git, YouTrack, Jira, Confluence"
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
+# Swipelux
+- position: Swipelux
+  location: Prague, Czech Republic
+  url: https://swipelux.com
+  role: DevOps Engineer
+  term: March 2022 - present
+  achievements:
+    - Infrastructure management and maintenance in cloud environment
+    - Security of the infrastructure
+    - Infrastructure as a code IaC
+    - Management of CI/CD processes
+    - Reliability and availability of application
+    - Application management in Kubernetes
+  technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD
+
 # Absa Technology
-- position: Python Developer
+- position: Absa Technology
   location: Prague, Czech Republic
   url: https://www.absa.africa/absaafrica/
-  role: Python Developer
-  term: August 2021 - present
+  role: DevOps Engineer
+  term: August 2021 - July 2022
   achievements:
     - Reliability of application log monitoring
     - Migration of infrastructure from on-premises to cloud environment
     - Infrastructure as a code IaC
     - Shell scripting (bash)
-  technologies: Python, AWS, ELK stack, New Relic, Docker, Kubernetes, Terraform
+  technologies: AWS, Terraform, Docker, ELK stack, New Relic
 
 # Commerzbank AG
 - position: Commerzbank AG
   location: Prague, Czech Republic
   url: https://www.commerzbank.com/
-  role: DevOps Engineer
+  role: Operations Engineer
   term: August 2020 - August 2021
   achievements:
     - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
@@ -91,6 +106,8 @@ education:
       Undergraduate coursework: machine building technologies
 
 certifications:
+  - name: "AWS Certified Security – Specialty"
+    url: "https://www.credly.com/badges/e338903d-b702-4094-94c3-1aeb44fbe899/public_url"
   - name: "AWS Certified Solutions Architect – Associate"
     url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
   - name: "AWS Cloud Practitioner"
@@ -101,14 +118,11 @@ certifications:
     url: "https://www.credly.com/badges/814cff27-4844-4419-9fd6-ea888d9ff25c/public_url"
   - name: "Certified Kubernetes Administrator"
     url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
-  - name: "Docker Deep Dive"
-    url: "https://linuxacademy.com/profile/u/cert/id/343970"
-  - name: "Elastic Stack Essentials"
-    url: "https://linuxacademy.com/profile/u/cert/id/344494"
-  - name: "The Bits and Bytes of Computer Networking"
-    url: "https://www.coursera.org/account/accomplishments/verify/VWHKFR98WYAM"
-  - name: "Python Programming - Stepik"
-    url: "https://stepik.org/cert/800109"
 
-
-
+badges:
+  - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
+  - id: "749610bd-ff8c-4dad-9db9-55cba2c25744"
+#  - id: "1b81fcab-c83e-488d-a124-627ba8b60796"
+  - id: "814cff27-4844-4419-9fd6-ea888d9ff25c"
+  - id: "b31f4057-9530-450e-8deb-5ea158093020"
+#  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
