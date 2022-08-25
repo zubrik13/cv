@@ -24,7 +24,7 @@
   "homepage": "https://github.com/zjor/cv#readme",
   "dependencies": {
     "handlebars": "^4.1.2",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^3.14.1",
     "phantomjs-prebuilt": "^2.1.16"
   }
 }

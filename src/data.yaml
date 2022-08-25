@@ -26,6 +26,21 @@ skills:
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
+# Smartlook
+- position: Smartlook
+  location: Prague, Czech Republic
+  url: https://smartlook.com
+  role: DevOps Engineer
+  term: August 2022 - present
+  achievements:
+    - Infrastructure management and maintenance in cloud environment (AWS)
+    - Security of the infrastructure
+    - Infrastructure as a code IaC
+    - Management of CI/CD processes
+    - Reliability and availability of application
+    - Application management in Kubernetes (EKS)
+  technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker
+
 # Swipelux
 - position: Swipelux
   location: Prague, Czech Republic
@@ -33,12 +48,12 @@ experience:
   role: DevOps Engineer
   term: March 2022 - present
   achievements:
-    - Infrastructure management and maintenance in cloud environment
+    - Infrastructure management and maintenance in cloud environment (AWS)
     - Security of the infrastructure
     - Infrastructure as a code IaC
     - Management of CI/CD processes
     - Reliability and availability of application
-    - Application management in Kubernetes
+    - Application management in Kubernetes (Rancher)
   technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD
 
 # Absa Technology
@@ -76,7 +91,7 @@ experience:
   achievements:
     - Created automatic email sending microservice Postemailer with Flask-Mail
     - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask <a
-      href="https://app.tezado.fun/">app.tezado.fun</a>
+      href="https://app.tezado.online/">app.tezado.online</a>
   technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
 
 # TECMOS spol. s r.o
