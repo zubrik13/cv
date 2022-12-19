@@ -1,0 +1,143 @@
+title: Raman Zubrytski
+
+firstName: Raman
+lastName: Zubrytski
+
+info:
+  webpage: https://zubrik.me
+  github: https://github.com/zubrik13
+  gitlab: https://gitlab.com/zubrik
+  linkedin: https://www.linkedin.com/in/raman-zubrytski-61a1b6a8/
+  phone: +420777548165
+  email: rzubrytski@gmail.com
+  location: Prague, Czech Republic
+
+position: DevOps Engineer
+profile: |
+  Software engineer with strong technical background. 
+  My goal is to become experienced engineer to be able to exceed challenging tasks and goals.
+
+skills:
+  - "Technologies: AWS, Terraform, Kubernetes, Docker"
+  - "Automation: Gitlab CI/CD, Azure Pipelines, Octopus"
+  - "Logging & Monitoring: Elastic Stack, New Relic"
+  - "Databases: PostgreSQL, MySQL, Oracle SQL"
+  - "Team Development: Git, YouTrack, Jira, Confluence"
+  - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
+
+experience:
+# Swipelux
+- position: Swipelux
+  location: Prague, Czech Republic
+  url: https://swipelux.com
+  role: DevOps Engineer
+  term: March 2022 - present
+  achievements:
+    - Infrastructure management and maintenance in cloud environment (AWS)
+    - Security of the infrastructure
+    - Infrastructure as a code IaC
+    - Management of CI/CD processes
+    - Reliability and availability of application
+    - Application management in Kubernetes (Rancher)
+  technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD
+
+# Smartlook
+- position: Smartlook
+  location: Prague, Czech Republic
+  url: https://smartlook.com
+  role: DevOps Engineer
+  term: August 2022 - December 2022
+  achievements:
+    - Infrastructure management and maintenance in cloud environment (AWS)
+    - Security of the infrastructure
+    - Infrastructure as a code IaC
+    - Management of CI/CD processes
+    - Reliability and availability of application
+    - Application management in Kubernetes (EKS)
+  technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker
+
+# Absa Technology
+- position: Absa Technology
+  location: Prague, Czech Republic
+  url: https://www.absa.africa/absaafrica/
+  role: DevOps Engineer
+  term: August 2021 - July 2022
+  achievements:
+    - Reliability of application log monitoring
+    - Migration of infrastructure from on-premises to cloud environment
+    - Infrastructure as a code IaC
+    - Shell scripting (bash)
+  technologies: AWS, Terraform, Docker, ELK stack, New Relic
+
+# Commerzbank AG
+- position: Commerzbank AG
+  location: Prague, Czech Republic
+  url: https://www.commerzbank.com/
+  role: Operations Engineer
+  term: August 2020 - August 2021
+  achievements:
+    - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
+    - Semi-Automated and automated deployment of applications
+    - Ensure readiness/health-state of production and testing environments using Dynatrace, Kibana
+    - Job automation, scripts writing (sql, python)
+  technologies: Python, Oracle SQL Developer, Dynatrace, Kibana
+
+# Self-employed
+- position: self-employed
+  location: Prague, Czech Republic
+  url: 
+  role: Fullstack Software Engineer - self-employed
+  term: January 2020 - July 2020
+  achievements:
+    - Created automatic email sending microservice Postemailer with Flask-Mail
+    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask <a
+      href="https://app.tezado.online/">app.tezado.online</a>
+  technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
+
+# TECMOS spol. s r.o
+- position: TECMOS spol. s.r.o
+  location: Nivnice, Czech Republic
+  url: https://tecmos.cz/ 
+  role: Structural Analysis, Fatigue and DT Analysis Engineer
+  term: April 2015 - June 2020
+  achievements:
+    - Structural analysis, fatigue, crack growth and damage tolerance analysis in Aerospace and Automotive industries.
+  technologies: FE analysis, NASTRAN, AFGROW
+
+education:
+  - degree: M.S.E. in Aircraft Design
+    term: 2013 - 2015
+    name: Brno University of Technology
+    location: Czech Republic
+    url: https://www.vutbr.cz/en/students/programmes/branch/14014
+    description: |
+      Graduate coursework: birdstrike impact on a leading edge of a composite wing
+  - degree: B.S.E. in Mechanical Engineering
+    term: 2007 - 2011
+    name: Brest State Technical University
+    location: Belarus
+    url: https://en.bstu.by/en/university/faculties/mechanical-engineering
+    description: |
+      Undergraduate coursework: machine building technologies
+
+certifications:
+  - name: "AWS Certified Security – Specialty"
+    url: "https://www.credly.com/badges/e338903d-b702-4094-94c3-1aeb44fbe899/public_url"
+  - name: "AWS Certified Solutions Architect – Associate"
+    url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
+  - name: "AWS Cloud Practitioner"
+    url: "https://www.credly.com/badges/1b81fcab-c83e-488d-a124-627ba8b60796/public_url"
+  - name: "Azure Fundamentals"
+    url: "https://www.credly.com/badges/0792a958-00d3-45b9-8a24-dcc3b535c674/public_url"
+  - name: "Terraform Associate"
+    url: "https://www.credly.com/badges/814cff27-4844-4419-9fd6-ea888d9ff25c/public_url"
+  - name: "Certified Kubernetes Administrator"
+    url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
+
+badges:
+  - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
+  - id: "749610bd-ff8c-4dad-9db9-55cba2c25744"
+#  - id: "1b81fcab-c83e-488d-a124-627ba8b60796"
+  - id: "814cff27-4844-4419-9fd6-ea888d9ff25c"
+  - id: "b31f4057-9530-450e-8deb-5ea158093020"
+#  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
