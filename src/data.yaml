@@ -90,8 +90,7 @@ experience:
   term: January 2020 - July 2020
   achievements:
     - Created automatic email sending microservice Postemailer with Flask-Mail
-    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask <a
-      href="https://app.tezado.online/">app.tezado.online</a>
+    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask
   technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
 
 # TECMOS spol. s r.o
@@ -125,8 +124,6 @@ certifications:
     url: "https://www.credly.com/badges/e338903d-b702-4094-94c3-1aeb44fbe899/public_url"
   - name: "AWS Certified Solutions Architect – Associate"
     url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
-  - name: "AWS Cloud Practitioner"
-    url: "https://www.credly.com/badges/1b81fcab-c83e-488d-a124-627ba8b60796/public_url"
   - name: "Azure Fundamentals"
     url: "https://www.credly.com/badges/0792a958-00d3-45b9-8a24-dcc3b535c674/public_url"
   - name: "Terraform Associate"
