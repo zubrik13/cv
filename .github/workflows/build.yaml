@@ -1,4 +1,4 @@
-name: Build Pages
+name: build-deploy-pages
 on:
   push:
     branches: [ master ]
