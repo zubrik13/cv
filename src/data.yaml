@@ -14,15 +14,15 @@ info:
 
 position: DevOps Engineer
 profile: |
-  Software engineer with strong technical background. 
-  My goal is to become experienced engineer to be able to exceed challenging tasks and goals.
+  Software engineer with focus on automation. Came from aerospace 🚀. Ready to exceed challenging tasks and goals.
+  I'm looking for opportunities to collaborate with partners, not just work for them. My ultimate goal is to solve real business problems together in a way, beneficial for both sides.
 
 skills:
-  - "Technologies: AWS, Terraform, Kubernetes, Docker"
-  - "Automation: Gitlab CI/CD, Azure Pipelines, Octopus"
-  - "Logging & Monitoring: Elastic Stack, New Relic"
+  - "Technologies: AWS, Azure, Terraform, Ansible, Vault, Kubernetes, Docker, NGINX"
+  - "Automation: Gitlab CI/CD, Github Actions, Azure Pipelines, Octopus, Spinnaker"
+  - "Logging & Monitoring: ELK Stack, New Relic, Prometheus+Grafana, Datadog"
   - "Databases: PostgreSQL, MySQL, Oracle SQL"
-  - "Team Development: Git, YouTrack, Jira, Confluence"
+  - "Team Development: Git, YouTrack, Linear, Jira, Confluence"
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
@@ -34,12 +34,14 @@ experience:
   term: March 2022 - present
   achievements:
     - Infrastructure management and maintenance in cloud environment (AWS)
-    - Security of the infrastructure
-    - Infrastructure as a code IaC
-    - Management of CI/CD processes
-    - Reliability and availability of application
-    - Application management in Kubernetes (Rancher)
-  technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD
+    - Security of the infrastructure (Ubuntu, CentOS)
+    - Infrastructure as a code IaC (Terraform)
+    - Management of CI/CD processes (Gilab CI/CD, Github Actions)
+    - Reliability and availability of applications (Java, NodeJS)
+    - Kubernetes cluster management (Rancher)
+    - Application management in Kubernetes (Rancher, EKS)
+    - Documentation management
+  technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD, Github Actions, NGINX, Datadog, Vault, Prometheus, Grafana, PostgreSQL
 
 # Smartlook
 - position: Smartlook
@@ -49,12 +51,13 @@ experience:
   term: August 2022 - December 2022
   achievements:
     - Infrastructure management and maintenance in cloud environment (AWS)
-    - Security of the infrastructure
-    - Infrastructure as a code IaC
-    - Management of CI/CD processes
-    - Reliability and availability of application
+    - Security of the infrastructure (Ubuntu)
+    - Infrastructure as a code IaC (Terraform)
+    - Management of CI/CD processes (Github Actions)
+    - Reliability and availability of applications (NodeJS)
     - Application management in Kubernetes (EKS)
-  technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker
+    - Documentation management
+  technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker, Github Actions
 
 # Absa Technology
 - position: Absa Technology
@@ -63,11 +66,12 @@ experience:
   role: DevOps Engineer
   term: August 2021 - July 2022
   achievements:
-    - Reliability of application log monitoring
-    - Migration of infrastructure from on-premises to cloud environment
-    - Infrastructure as a code IaC
+    - Reliability of application log monitoring (ELK Stack)
+    - Migration of infrastructure from on-premises to cloud environment (AWS)
+    - Infrastructure as a code IaC (Terraform)
+    - Management of CI/CD processes (Github Actions, Azure Pipelines, AWS CodeBuild)
     - Shell scripting (bash)
-  technologies: AWS, Terraform, Docker, ELK stack, New Relic
+  technologies: AWS, Terraform, Docker, Azure Pipelines, Github Actions, Elastic Stack, New Relic
 
 # Commerzbank AG
 - position: Commerzbank AG
@@ -76,11 +80,11 @@ experience:
   role: Operations Engineer
   term: August 2020 - August 2021
   achievements:
-    - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement
-    - Semi-Automated and automated deployment of applications
+    - Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement (AOP application)
+    - Semi-Automated and automated deployment of applications (Java apps running on RedHat servers)
     - Ensure readiness/health-state of production and testing environments using Dynatrace, Kibana
-    - Job automation, scripts writing (sql, python)
-  technologies: Python, Oracle SQL Developer, Dynatrace, Kibana
+    - Job automation, scripts writing (sql, python, bash)
+  technologies: Oracle SQL Developer, Dynatrace, Kibana, Python, Bash
 
 # Self-employed
 - position: self-employed
@@ -90,8 +94,8 @@ experience:
   term: January 2020 - July 2020
   achievements:
     - Created automatic email sending microservice Postemailer with Flask-Mail
-    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app with Flask
-  technologies: Python, Flask, Docker, Kubernetes, Gitlab CI/CD
+    - Developed architecture design, backend and frontend implementation of TE-ZA-DO app (Python, Flask, PostgreSQL)
+  technologies: Python, Flask, HTML, CSS, PostgreSQL, Gitlab CI/CD, Docker, Rancher,
 
 # TECMOS spol. s r.o
 - position: TECMOS spol. s.r.o
@@ -130,11 +134,14 @@ certifications:
     url: "https://www.credly.com/badges/814cff27-4844-4419-9fd6-ea888d9ff25c/public_url"
   - name: "Certified Kubernetes Administrator"
     url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
+  - name: "Kubernetes Security Essentials"
+    url: "https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url"
 
 badges:
   - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
   - id: "749610bd-ff8c-4dad-9db9-55cba2c25744"
+  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
 #  - id: "1b81fcab-c83e-488d-a124-627ba8b60796"
   - id: "814cff27-4844-4419-9fd6-ea888d9ff25c"
   - id: "b31f4057-9530-450e-8deb-5ea158093020"
-#  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
+  - id: "02bac719-36ac-4c33-8219-de55a0693370"
