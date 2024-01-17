@@ -12,9 +12,9 @@ info:
   email: rzubrytski@gmail.com
   location: Prague, Czech Republic
 
-position: DevOps Engineer
+position: Cloud Consultant | AWS
 profile: |
-  Software engineer with focus on automation. Came from aerospace 🚀. Ready to exceed challenging tasks and goals.
+  Cloud Consultant focusing on complex solutions for customers in the CEE region. Came from aerospace 🚀. Ready to exceed challenging tasks and goals.
   I'm looking for opportunities to collaborate with partners, not just work for them. My ultimate goal is to solve real business problems together in a way, beneficial for both sides.
 
 skills:
@@ -26,12 +26,22 @@ skills:
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
+# Orbit
+- position: ORBIT
+  location: Prague, Czech Republic
+  url: https://www.orbit.cz/
+  role: Cloud Consultant | AWS
+  term: January 2024 - present
+  achievements:
+    - Solution design and implementation for AWS Cloud
+  technologies: AWS, Terraform, Kubernetes
+
 # Swipelux
 - position: Swipelux
   location: Prague, Czech Republic
   url: https://swipelux.com
   role: DevOps Engineer
-  term: March 2022 - present
+  term: March 2022 - December 2023
   achievements:
     - Infrastructure management and maintenance in cloud environment (AWS)
     - Security of the infrastructure (Ubuntu, CentOS)
