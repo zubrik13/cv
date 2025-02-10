@@ -76,7 +76,7 @@ experience:
     - Reliability of application log monitoring (ELK Stack)
     - Migration of infrastructure from on-premises to cloud environment (AWS)
     - Infrastructure as a code IaC (Terraform)
-    - Management of CI/CD processes (Github Actions, Azure DevOps, AWS CodeBuild)
+    - Management of CI/CD pipelines (Github Actions, Azure DevOps, AWS CodeBuild)
     - Shell scripting (bash)
   technologies: AWS, Terraform, Docker, Azure DevOps, Github Actions, Elastic Stack, New Relic
 
