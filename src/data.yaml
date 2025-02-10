@@ -19,7 +19,7 @@ profile: |
 
 skills:
   - "Technologies: AWS, Azure, Terraform, Ansible, Vault, Kubernetes, Docker, NGINX"
-  - "Automation: Gitlab CI/CD, Github Actions, Azure Pipelines, Octopus, Spinnaker"
+  - "Automation: Gitlab CI/CD, Github Actions, Azure DevOps, Octopus, Spinnaker"
   - "Logging & Monitoring: ELK Stack, New Relic, Prometheus+Grafana, Datadog"
   - "Databases: PostgreSQL, MySQL, Oracle SQL"
   - "Team Development: Git, YouTrack, Linear, Jira, Confluence"
@@ -34,7 +34,10 @@ experience:
   term: January 2024 - present
   achievements:
     - Solution design and implementation for AWS Cloud
-  technologies: AWS, Terraform, Kubernetes
+    - AWS Well-Architected Program implementation
+    - Internal product & solution development
+    - Infrastructure and application management (GitOps) in Azure Cloud
+  technologies: AWS, Azure, Terraform, Kubernetes
 
 # Swipelux
 - position: Swipelux
@@ -43,14 +46,11 @@ experience:
   role: DevOps Engineer
   term: March 2022 - December 2023
   achievements:
-    - Infrastructure management and maintenance in cloud environment (AWS)
-    - Security of the infrastructure (Ubuntu, CentOS)
-    - Infrastructure as a code IaC (Terraform)
-    - Management of CI/CD processes (Gilab CI/CD, Github Actions)
-    - Reliability and availability of applications (Java, NodeJS)
+    - Infrastructure management and maintenance in cloud environment (AWS), Infrastructure as a code IaC (Terraform)
+    - Server management and security (Ubuntu, CentOS)
+    - Management of CI/CD pipelines (Gilab CI/CD, Github Actions)
     - Kubernetes cluster management (Rancher)
-    - Application management in Kubernetes (Rancher, EKS)
-    - Documentation management
+    - Application management (Java, NodeJS) in Kubernetes (Rancher, EKS)
   technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD, Github Actions, NGINX, Datadog, Vault, Prometheus, Grafana, PostgreSQL
 
 # Smartlook
@@ -60,13 +60,10 @@ experience:
   role: DevOps Engineer
   term: August 2022 - December 2022
   achievements:
-    - Infrastructure management and maintenance in cloud environment (AWS)
+    - Infrastructure management, security and maintenance in cloud environment (AWS), Infrastructure as a code IaC (Terraform)
     - Security of the infrastructure (Ubuntu)
-    - Infrastructure as a code IaC (Terraform)
-    - Management of CI/CD processes (Github Actions)
-    - Reliability and availability of applications (NodeJS)
+    - Management of CI/CD pipelines (Github Actions, Spinnaker)
     - Application management in Kubernetes (EKS)
-    - Documentation management
   technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker, Github Actions
 
 # Absa Technology
@@ -79,9 +76,9 @@ experience:
     - Reliability of application log monitoring (ELK Stack)
     - Migration of infrastructure from on-premises to cloud environment (AWS)
     - Infrastructure as a code IaC (Terraform)
-    - Management of CI/CD processes (Github Actions, Azure Pipelines, AWS CodeBuild)
+    - Management of CI/CD processes (Github Actions, Azure DevOps, AWS CodeBuild)
     - Shell scripting (bash)
-  technologies: AWS, Terraform, Docker, Azure Pipelines, Github Actions, Elastic Stack, New Relic
+  technologies: AWS, Terraform, Docker, Azure DevOps, Github Actions, Elastic Stack, New Relic
 
 # Commerzbank AG
 - position: Commerzbank AG
@@ -146,6 +143,8 @@ certifications:
     url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
   - name: "Kubernetes Security Essentials"
     url: "https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url"
+  - name: "Fortinet Certified Associate Cybersecurity"
+    url: "https://www.credly.com/badges/e94b53bb-294a-461d-aa00-adeee0b5181b/public_url"
 
 badges:
   - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
@@ -155,3 +154,4 @@ badges:
   - id: "ef73b225-383e-436b-8a2e-ab79a9130108"
   - id: "b31f4057-9530-450e-8deb-5ea158093020"
   - id: "02bac719-36ac-4c33-8219-de55a0693370"
+  - id: "e94b53bb-294a-461d-aa00-adeee0b5181b"
