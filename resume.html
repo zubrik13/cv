@@ -86,6 +86,12 @@
         font-weight: bold;
         font-family: sans-serif;
       }
+
+      @media print {
+        .page-break {
+          break-before: page; /* Or page-break-before: always; for older browser support */
+        }
+      }
   </style>
 </head>
 <body>
@@ -118,12 +124,21 @@
       <div class="right">Jan 2024 - present</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Solution design and implementation for AWS Cloud</li>
         <li>AWS Well-Architected Program implementation</li>
         <li>Internal product & solution development</li>
-        <li>Infrastructure and application management (GitOps) in Azure Cloud</li>
+        <li>Infrastructure and application management in Azure Cloud</li>
       </ul>
+      <h5>Key references:</h5>
+      <ul>
+        <li>RSTS CMAP implementation for internal business applications</li>
+        <li>Migration of the RSTS core banking system (CIBIS) from on-premise to AWS cloud
+        <li>Database HW performance fine-tuning (Informix), Linux (RHEL) administration</li>
+        <li>RDS Standard and CMDB data import implementation across all accounts (IaC, Serverless)</li>
+      </ul>
+      <br>
       <strong>Technologies: AWS, Azure, Terraform, Kubernetes, Azure DevOps</strong>
     </article>
 
@@ -134,13 +149,16 @@
       <div class="right">Mar 2022 - Dec 2023</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Infrastructure management and maintenance in cloud environment (AWS), Infrastructure as a code IaC (Terraform)</li>
+        <li>Infrastructure as a code IaC (Terraform)</li>
         <li>Server management and security (Ubuntu, CentOS)</li>
         <li>Management of CI/CD pipelines (Gilab CI/CD, Github Actions)</li>
         <li>Kubernetes cluster management (Rancher)</li>
         <li>Application management (Java, NodeJS) in Kubernetes (Rancher, EKS)</li>
       </ul>
+      <br>
       <strong>Technologies: AWS, Terraform, Kubernetes, Docker, Gilab CI/CD, Github Actions, NGINX, Datadog, Vault, Prometheus, Grafana, PostgreSQL</strong>
     </article>
 
@@ -151,11 +169,13 @@
       <div class="right">Aug 2022 - December 2022</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Infrastructure management, security and maintenance in cloud environment (AWS), Infrastructure as a code IaC (Terraform)</li>
         <li>Management of CI/CD pipelines (Github Actions, Spinnaker)</li>
         <li>Application management in Kubernetes (EKS)</li>
       </ul>
+      <br>
       <strong>Technologies: AWS, Terraform, Kubernetes, Docker, Spinnaker, Github Actions</strong>
     </article>
 
@@ -166,12 +186,14 @@
       <div class="right">Aug 2021 - July 2022</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Reliability of application log monitoring (ELK Stack)</li>
         <li>Migration of infrastructure from on-premises to cloud environment (AWS)</li>
         <li>Infrastructure as a code IaC (Terraform)</li>
         <li>Shell scripting (bash)</li>
       </ul>
+      <br>
       <strong>Technologies: AWS, Terraform, Docker, Azure DevOps, Github Actions, Elastic Stack, New Relic</strong>
     </article>
 
@@ -182,13 +204,17 @@
       <div class="right">Aug 2020 - Aug 2021</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Administration and maintenance of Commerzbank systems related to AML and Regulatory Requirement (AOP application)</li>
         <li>Semi-Automated and automated deployment of applications (Java apps running on RedHat servers)</li>
         <li>Production support (AOP clients)</li>
       </ul>
+      <br>
       <strong>Production support. Technologies: Python, Oracle SQL Developer, Dynatrace, Kibana</strong>
     </article>
+
+    <div class="page-break"></div>
 
     <!-- Self-employed -->
     <div class="clearfix term">
@@ -197,9 +223,11 @@
       <div class="right">Jan 2020 - Jul 2020</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Developing architecture design, backend and frontend implementation of TE-ZA-DO app (Python, Flask, PostgreSQL)</li>
       </ul>
+      <br>
       <strong>Technologies: Python, Flask, Docker, Kubernetes, Rancher, PostgreSQL, HTML, CSS</strong>
     </article>
 
@@ -211,9 +239,11 @@
       <div class="right">Apr 2015 - Jun 2020</div>
     </div>
     <article>
+      <h5>Roles &amp; Responsibilities:</h5>
       <ul>
         <li>Structural analysis, fatigue, crack growth and damage tolerance analysis in Aerospace and Automotive industries</li>
       </ul>
+      <br>
       <strong>Technologies: FE analysis, NASTRAN, AFGROW</strong>
     </article>
 
@@ -273,6 +303,7 @@
           <a href="https://www.credly.com/badges/ef73b225-383e-436b-8a2e-ab79a9130108/public_url">Terraform Associate</a> <br>
           <a href="https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url">Certified Kubernetes Administrator</a> <br>
           <a href="https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url">Kubernetes Security Essentials</a> <br>
+          <a href="https://www.credly.com/badges/81cc52c4-1c5f-457a-b060-fe35f8218bef/public_url">Github Foundations</a> <br>
           <a href="https://www.credly.com/badges/e94b53bb-294a-461d-aa00-adeee0b5181b/public_url">Fortinet Certified Associate Cybersecurity</a>
         </ul>
       </article>
@@ -286,21 +317,21 @@
           <li><strong>Technologies:</strong> AWS, Azure, Kubernetes, Docker, Terraform, Vault, NGINX</li>
           <li><strong>Automation:</strong> Gitlab CI/CD, Github Actions, Azure DevOps</li>
           <li><strong>Logging & Monitoring:</strong> ELK Stack, Datadog, Prometheus+Grafana</li>
-<!--          <li><strong>Team Development:</strong> Git, YouTrack, Jira, Confluence, Linear</li>-->
+          <li><strong>Team Development:</strong> Git, YouTrack, Jira, Confluence, Linear</li>
           <li><strong>Languages:</strong> English (fluent), Czech (fluent), Russian (native), German (beginner)</li>
         </ul>
       </article>
     </section>
 
     <!-- interests -->
-<!--    <section>-->
-<!--      <header>interests</header>-->
-<!--      <article>-->
-<!--        <ul>-->
-<!--          <li>Programming, aerospace, traveling, badminton, hiking, bike riding, music</li>-->
-<!--        </ul>-->
-<!--      </article>-->
-<!--    </section>-->
+    <section>
+      <header>interests</header>
+      <article>
+        <ul>
+          <li>Programming, aerospace, traveling, badminton, hiking, bike riding, music</li>
+        </ul>
+      </article>
+    </section>
 
 </div>
 
