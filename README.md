@@ -1,5 +1,6 @@
 # CV
-[![Build Status](https://travis-ci.com/zubrik13/cv.svg?branch=master)](https://travis-ci.com/github/zubrik13/cv)
+
+[![build-deploy-pages](https://github.com/zubrik13/cv/actions/workflows/build.yaml/badge.svg)](https://github.com/zubrik13/cv/actions/workflows/build.yaml)
 
 Static CV generated from the Yaml data file and a template.
 

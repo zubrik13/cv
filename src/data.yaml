@@ -145,6 +145,8 @@ certifications:
     url: "https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url"
   - name: "Fortinet Certified Associate Cybersecurity"
     url: "https://www.credly.com/badges/e94b53bb-294a-461d-aa00-adeee0b5181b/public_url"
+  - name: "GitHub Foundations"
+    url: "https://www.credly.com/badges/81cc52c4-1c5f-457a-b060-fe35f8218bef/public_url"
 
 badges:
   - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
@@ -155,3 +157,4 @@ badges:
   - id: "b31f4057-9530-450e-8deb-5ea158093020"
   - id: "02bac719-36ac-4c33-8219-de55a0693370"
   - id: "e94b53bb-294a-461d-aa00-adeee0b5181b"
+  - id: "81cc52c4-1c5f-457a-b060-fe35f8218bef"
