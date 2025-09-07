@@ -12,26 +12,42 @@ info:
   email: rzubrytski@gmail.com
   location: Prague, Czech Republic
 
-position: Cloud Consultant | AWS
+position: Platform Engineer
 profile: |
-  Cloud Consultant focusing on complex solutions for customers in the CEE region. Came from aerospace 🚀. Ready to exceed challenging tasks and goals.
-  I'm looking for opportunities to collaborate with partners, not just work for them. My ultimate goal is to solve real business problems together in a way, beneficial for both sides.
+  Results-driven IT professional with over 5 years of experience in DevOps, operations and system design.
+  Skilled in cloud platforms (AWS, Azure), infrastructure as code (Terraform, CloudFormation), container orchestration (Kubernetes, Docker),
+  and CI/CD pipelines (Gitlab CI/CD, Github Actions). Adept at collaborating with cross-functional teams to deliver robust and scalable solutions.
+  Committed to continuous learning and staying updated with the latest industry trends and technologies.
 
 skills:
   - "Technologies: AWS, Azure, Terraform, Ansible, Vault, Kubernetes, Docker, NGINX"
-  - "Automation: Gitlab CI/CD, Github Actions, Azure DevOps, Octopus, Spinnaker"
-  - "Logging & Monitoring: ELK Stack, New Relic, Prometheus+Grafana, Datadog"
-  - "Databases: PostgreSQL, MySQL, Oracle SQL"
+  - "Automation: Gitlab CI/CD, Github Actions, Azure Pipelines, ArgoCD"
+  - "Logging & Monitoring: ELK Stack, Prometheus+Grafana, Datadog"
+  - "Databases: PostgreSQL, MySQL, Oracle SQL, DynamoDB"
   - "Team Development: Git, YouTrack, Linear, Jira, Confluence"
   - "Languages: English (fluent), Czech (fluent), Russian (native), German (beginner)"
 
 experience:
+# StatsPerform
+- position: StatsPerform
+  location: Prague, Czech Republic
+  url: https://www.statsperform.com/
+  role: Platform Engineer
+  term: June 2025 - present
+  achievements:
+    - Manage and troubleshoot Kubernetes clusters across on-premises and cloud environments
+    - Support the deployment and upkeep of GPU workloads on NVIDIA hardware using Kubernetes
+    - Maintaining infrastructure automation and implementing Infrastructure as Code (IaC) principles
+    - Implement automation tools (ArgoCD, HELM, and Terraform) to streamline deployment and management processes
+    - Develop & maintain standards (OPA & Kyverno) in K8s
+  technologies: AWS, Terraform, Kubernetes, ArgoCD, Atlantis, Prometheus, Grafana, Github Actions
+
 # Orbit
 - position: ORBIT
   location: Prague, Czech Republic
   url: https://www.orbit.cz/
   role: Cloud Consultant | AWS
-  term: January 2024 - present
+  term: January 2024 - June 2025
   achievements:
     - Solution design and implementation for AWS Cloud
     - AWS Well-Architected Program implementation
@@ -131,30 +147,33 @@ education:
       Undergraduate coursework: machine building technologies
 
 certifications:
-  - name: "AWS Certified Security – Specialty"
-    url: "https://www.credly.com/badges/e338903d-b702-4094-94c3-1aeb44fbe899/public_url"
-  - name: "AWS Certified Solutions Architect – Associate"
-    url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
-  - name: "Azure Fundamentals"
-    url: "https://www.credly.com/badges/ef73b225-383e-436b-8a2e-ab79a9130108/public_url"
   - name: "Terraform Associate"
     url: "https://www.credly.com/badges/814cff27-4844-4419-9fd6-ea888d9ff25c/public_url"
-  - name: "Certified Kubernetes Administrator"
-    url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
   - name: "Kubernetes Security Essentials"
     url: "https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url"
   - name: "Fortinet Certified Associate Cybersecurity"
     url: "https://www.credly.com/badges/e94b53bb-294a-461d-aa00-adeee0b5181b/public_url"
   - name: "GitHub Foundations"
     url: "https://www.credly.com/badges/81cc52c4-1c5f-457a-b060-fe35f8218bef/public_url"
+  - name: "Microsoft Certified: Azure Fundamentals"
+    url: "https://www.credly.com/badges/0792a958-00d3-45b9-8a24-dcc3b535c674/public_url"
+  # - name: "AWS Certified Security – Specialty"
+  #   url: "https://www.credly.com/badges/e338903d-b702-4094-94c3-1aeb44fbe899/public_url"
+  # - name: "AWS Certified Solutions Architect – Associate"
+  #   url: "https://www.credly.com/badges/749610bd-ff8c-4dad-9db9-55cba2c25744/public_url"
+  # - name: "Azure Fundamentals"
+  #   url: "https://www.credly.com/badges/ef73b225-383e-436b-8a2e-ab79a9130108/public_url"
+  # - name: "Certified Kubernetes Administrator"
+  #   url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
 
 badges:
-  - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
-  - id: "749610bd-ff8c-4dad-9db9-55cba2c25744"
-  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
-#  - id: "1b81fcab-c83e-488d-a124-627ba8b60796"
-  - id: "ef73b225-383e-436b-8a2e-ab79a9130108"
-  - id: "b31f4057-9530-450e-8deb-5ea158093020"
+  - id: "814cff27-4844-4419-9fd6-ea888d9ff25c"
   - id: "02bac719-36ac-4c33-8219-de55a0693370"
   - id: "e94b53bb-294a-461d-aa00-adeee0b5181b"
   - id: "81cc52c4-1c5f-457a-b060-fe35f8218bef"
+  - id: "0792a958-00d3-45b9-8a24-dcc3b535c674"
+  # - id: "e338903d-b702-4094-94c3-1aeb44fbe899"
+  # - id: "749610bd-ff8c-4dad-9db9-55cba2c25744"
+  # - id: "1b81fcab-c83e-488d-a124-627ba8b60796"
+  # - id: "ef73b225-383e-436b-8a2e-ab79a9130108"
+  # - id: "b31f4057-9530-450e-8deb-5ea158093020"
