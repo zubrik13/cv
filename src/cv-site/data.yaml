@@ -1,18 +1,18 @@
-title: Roman Zubryckyj
+title: Roman Zubrytski
 
 firstName: Roman
-lastName: Zubryckyj
+lastName: Zubrytski
 
 info:
   webpage: https://zubrik.me
   github: https://github.com/zubrik13
-  gitlab: https://gitlab.com/zubrik
-  linkedin: https://www.linkedin.com/in/roman-zubryckyj-61a1b6a8/
+  # gitlab: https://gitlab.com/zubrik
+  linkedin: https://www.linkedin.com/in/roman-zubrytski-61a1b6a8/
   phone: +420777548165
   email: rzubrytski@gmail.com
   location: Prague, Czech Republic
 
-position: Platform Engineer
+position: Senior Platform Engineer
 profile: |
   Results-driven IT professional with over 5 years of experience in DevOps, operations and system design.
   Skilled in cloud platforms (AWS, Azure), infrastructure as code (Terraform, CloudFormation), container orchestration (Kubernetes, Docker),
@@ -32,7 +32,7 @@ experience:
 - position: StatsPerform
   location: Prague, Czech Republic
   url: https://www.statsperform.com/
-  role: Platform Engineer
+  role: Senior Platform Engineer
   term: June 2025 - present
   achievements:
     - Manage and troubleshoot Kubernetes clusters across on-premises and cloud environments
@@ -112,7 +112,7 @@ experience:
 # Self-employed
 - position: self-employed
   location: Prague, Czech Republic
-  url: 
+  url:
   role: Fullstack Software Engineer - self-employed
   term: January 2020 - July 2020
   achievements:
@@ -123,7 +123,7 @@ experience:
 # TECMOS spol. s r.o
 - position: TECMOS spol. s.r.o
   location: Nivnice, Czech Republic
-  url: https://tecmos.cz/ 
+  url: https://tecmos.cz/
   role: Structural Analysis, Fatigue and DT Analysis Engineer
   term: April 2015 - June 2020
   achievements:
@@ -147,8 +147,8 @@ education:
       Undergraduate coursework: machine building technologies
 
 certifications:
-  - name: "Terraform Associate"
-    url: "https://www.credly.com/badges/814cff27-4844-4419-9fd6-ea888d9ff25c/public_url"
+  - name: "Terraform Associate (004)"
+    url: "https://www.credly.com/badges/b0726aee-e15f-4169-9189-09f3090ef28c/public_url"
   - name: "Kubernetes Security Essentials"
     url: "https://www.credly.com/badges/02bac719-36ac-4c33-8219-de55a0693370/public_url"
   - name: "Fortinet Certified Associate Cybersecurity"
@@ -167,7 +167,7 @@ certifications:
   #   url: "https://www.credly.com/badges/b31f4057-9530-450e-8deb-5ea158093020/public_url"
 
 badges:
-  - id: "814cff27-4844-4419-9fd6-ea888d9ff25c"
+  - id: "b0726aee-e15f-4169-9189-09f3090ef28c"
   - id: "02bac719-36ac-4c33-8219-de55a0693370"
   - id: "e94b53bb-294a-461d-aa00-adeee0b5181b"
   - id: "81cc52c4-1c5f-457a-b060-fe35f8218bef"

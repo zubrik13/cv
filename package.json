@@ -4,9 +4,12 @@
   "description": "Resume generator based on data provided in YAML",
   "main": "index.js",
   "scripts": {
-    "render": "node render.js",
-    "watch": "node render.js --watch",
-    "pdf": "node render.js --pdf"
+    "render": "node src/cv-site/render.js",
+    "watch": "node src/cv-site/render.js --watch",
+    "serve": "python3 -m http.server 8000 --directory dist"
+  },
+  "engines": {
+    "node": ">=26"
   },
   "repository": {
     "type": "git",
@@ -24,8 +27,6 @@
   "homepage": "https://github.com/zjor/cv#readme",
   "dependencies": {
     "handlebars": "^4.1.2",
-    "html-pdf": "^3.0.1",
-    "js-yaml": "^3.14.1",
-    "phantomjs-prebuilt": "^2.1.16"
+    "js-yaml": "^3.14.1"
   }
 }
